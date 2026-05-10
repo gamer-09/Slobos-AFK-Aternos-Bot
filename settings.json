@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "squirrelfish.aternos.host",
+    "ip": "gazelle.aternos.host",
     "port": 28799,
     "version": "",
     "try-creative": false
