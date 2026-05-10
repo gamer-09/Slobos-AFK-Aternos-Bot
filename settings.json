@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "sammybit2.aternos.me",
+    "ip": "ronquil.aternos.host:28799",
     "port": 28799,
-    "version": "",
+    "version": "26.1.2",
     "try-creative": false
   },
   "position": {
