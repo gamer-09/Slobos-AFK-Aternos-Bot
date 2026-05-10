@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "ronquil.aternos.host:28799",
+    "ip": "ronquil.aternos.host",
     "port": 28799,
-    "version": "26.1.2",
+    "version": "",
     "try-creative": false
   },
   "position": {
