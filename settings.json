@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "ronquil.aternos.host",
+    "ip": "squirrelfish.aternos.host",
     "port": 28799,
     "version": "",
     "try-creative": false
